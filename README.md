@@ -1,4 +1,4 @@
-# Retail-Scales-Project📊 Retail Sales Intelligence & Forecasting System
+# Retail Sales Intelligence & Forecasting System
 
 🔥 Project Overview
 
